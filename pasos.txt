@@ -1,0 +1,10 @@
+1-Creo carpetas = (1)Datos,(2)Servicios,Dominio,Presentacion
+2-Empiezo HelperDao en (1), creo carpetas (1.1)interfaz e (1.2)implementacion 
+3-InombreDao dentro de (1.1)
+4-nombreDao dentro de (1.2)
+5-En (2) creo la carpeta (2.1)implementacion e (2.2)interfaz
+(ISERVICIO PRIMERO DESPUES SERVICIONOMBRE)
+6-ServicioNombre dentro de (2.1)
+7-IServicio dentro de (2.2)
+8-abstractFactoryService dentro (2)
+9-serviceFactoryImpl dentro (2)
